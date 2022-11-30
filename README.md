@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/tw6i0r56wcb46lug/branch/master?svg=true)](https://ci.appveyor.com/project/hiiamvalya/patternscarddelivery-btqps/branch/master)
+
 # Домашнее задание к занятию «2.3. Patterns»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
